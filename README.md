@@ -57,11 +57,10 @@ Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
-    margin="0"
     align="left" 
     alt="Wordpress"
     title="Wordpress" 
-    width="40px" 
+    width="30px" 
     background="#0000FF"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
