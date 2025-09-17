@@ -50,11 +50,11 @@ Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas d
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Vscode"
+    title="Vscode" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="http://www.w3.org/2000/svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
 <br/>
