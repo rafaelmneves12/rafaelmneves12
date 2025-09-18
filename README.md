@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas de Informação na UNISUAM. Sou apaixonado por tecnologia e venho aprimorando meus conhecimentos através de cursos e projetos.
+Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas de <strong>Informação na UNISUAM</strong>. Sou apaixonado por tecnologia e venho aprimorando meus conhecimentos através de cursos e projetos.
 
 ---
 
