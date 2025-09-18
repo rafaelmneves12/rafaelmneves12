@@ -1,4 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # 👨🏻‍💻 Olá, eu sou o Rafael
 
@@ -68,15 +67,7 @@ Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Wordpress"
-    title="Wordpress" 
-    width="30px" 
-    background="#0000FF"
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/iconswordpresswasm"
-/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,wordpress,vscode,bootstrap)](https://skillicons.dev)
 
 <br/>
 <br/>
