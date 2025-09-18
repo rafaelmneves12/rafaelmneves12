@@ -49,7 +49,7 @@ Atualmente, estou focado no desenvolvimento <strong>Front-End</strong>, mas meu 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmneves12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmneves12&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
