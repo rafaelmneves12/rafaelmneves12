@@ -8,9 +8,13 @@ Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas d
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-<p style="margin-top: 20px">
+<p>
   <a href="https://skillicons.dev">
     <img 
         src="https://skillicons.dev/icons?i=js,html,css,react,wordpress,vscode,bootstrap" 
@@ -24,6 +28,8 @@ Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas d
   </a>
 </p>
 
+<br/>
+<br/>
 <br/>
 <br/>
 
