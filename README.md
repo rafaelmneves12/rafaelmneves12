@@ -8,7 +8,6 @@ Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas d
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<br/>
 
 
 <p>
