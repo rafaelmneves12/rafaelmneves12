@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 # 👨🏻‍💻 Olá, eu sou o Rafael
 
 **`Desenvolvedor Front-end`**
@@ -73,7 +75,7 @@ Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas d
     width="30px" 
     background="#0000FF"
     style="padding-right: 10px;" 
-    src="http://www.w3.org/2000/svg"
+    src="https://skillicons.dev/iconswordpresswasm"
 />
 
 <br/>
