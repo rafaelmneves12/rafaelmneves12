@@ -1,9 +1,14 @@
 
-# 👨🏻‍💻 Olá, eu sou o Rafael
+# 👋 Olá, eu sou o Rafael
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas de <strong>Informação na UNISUAM</strong>. Sou apaixonado por tecnologia e venho aprimorando meus conhecimentos através de cursos e projetos.
+Meu nome é Rafael Mattos, sou natural do Rio de Janeiro e atualmente estou cursando <strong>Sistemas de Informação na UNISUAM</strong>.
+Sou apaixonado por tecnologia e estou em constante evolução, sempre buscando novos aprendizados por meio de cursos, projetos e experiências práticas.
+
+Atualmente, estou focado no desenvolvimento <strong>Front-End</strong>, mas meu objetivo é me tornar um desenvolvedor <strong>Full Stack</strong>, ampliando minhas habilidades e conhecimentos em toda a stack de desenvolvimento.
+
+🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia!
 
 ---
 
