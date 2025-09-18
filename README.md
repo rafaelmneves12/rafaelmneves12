@@ -67,7 +67,19 @@ Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
 />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,wordpress,vscode,bootstrap)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev">
+    <img 
+        src="https://skillicons.dev/icons?i=js,html,css,react,wordpress,vscode,bootstrap" 
+        align="left" 
+        alt="Wordpress"
+        title="Wordpress" 
+        width="30px" 
+        background="#0000FF"
+        style="padding-right: 10px;" 
+        />
+  </a>
+</p>
 
 <br/>
 <br/>
