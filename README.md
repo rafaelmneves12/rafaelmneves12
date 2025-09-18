@@ -19,7 +19,7 @@ Me chamo Rafael Mattos, sou natural do Rio de Janeiro. Estou cursando Sistemas d
         title="Wordpress" 
         size="30px" 
         background="#0000FF"
-        style="padding-right: 20px;" 
+        style="margin-right: 20px;" 
         />
   </a>
 </p>
