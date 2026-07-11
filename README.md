@@ -18,7 +18,7 @@ Atualmente, estou focado no desenvolvimento <strong>Front-End</strong>, mas meu 
 <p>
   <a href="https://skillicons.dev">
     <img 
-        src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,vscode,wordpress,git" 
+        src="https://skillicons.dev/icons?i=js,html,css,react,ts,tailwind,git,wordpress,shopify" 
         align="left" 
         alt="Wordpress"
         title="Wordpress" 
