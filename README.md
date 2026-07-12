@@ -20,8 +20,8 @@ Atualmente, estou focado no desenvolvimento <strong>Front-End</strong>, mas meu 
     <img 
         src="https://skillicons.dev/icons?i=js,html,css,react,ts,tailwind,git,wordpress" 
         align="left" 
-        alt="Wordpress"
-        title="Wordpress" 
+        alt="skills"
+        title="skills" 
         size="30px" 
         background="#0000FF"
         style="padding-right: 20px;" 
