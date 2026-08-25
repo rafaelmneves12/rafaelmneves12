@@ -51,38 +51,48 @@
 
 <div align="center">
 
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelmneves12&theme=github_dark"
-    alt="GitHub Activity Overview"
-  />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelmneves12&theme=github_dark"
+  width="100%"
+  alt="GitHub Activity Overview"
+/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelmneves12&theme=github_dark"
-    alt="Linguagens por Repositório"
-  />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelmneves12&theme=github_dark"
+        width="100%"
+        alt="Linguagens por repositório"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelmneves12&theme=github_dark"
+        width="100%"
+        alt="Linguagens mais utilizadas nos commits"
+      />
+    </td>
+  </tr>
 
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelmneves12&theme=github_dark"
-    alt="Linguagens mais utilizadas nos commits"
-  />
-
-  <br/><br/>
-
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelmneves12&theme=github_dark"
-    alt="Estatísticas gerais do GitHub"
-  />
-
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafaelmneves12&theme=github_dark&utcOffset=-3"
-    alt="Horários de maior atividade"
-  />
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelmneves12&theme=github_dark"
+        width="100%"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafaelmneves12&theme=github_dark&utcOffset=-3"
+        width="100%"
+        alt="Horário de maior atividade"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
