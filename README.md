@@ -1,113 +1,59 @@
-<div align="center">
+<h1 align="center">Oieee, seja bem-vindo(a) 👋</h1>
 
-# 👋 Olá, eu sou o Rafael Mattos
+<p align="center">
+  Me chamo <b>Rafael de Mattos Neves</b>, e moro no Rio de Janeiro - RJ.
+</p>
 
-### Desenvolvedor Front-End • React • TypeScript
+- 💻 Desenvolvedor Front-end / Full Stack
+- 🚀 Construindo aplicações com React, TypeScript e integrações com Supabase e Firebase
+- 🌱 Sempre aprendendo e evoluindo com novas tecnologias
+- 📫 Venha me conhecer um pouco mais!
 
-Desenvolvo interfaces modernas, responsivas e aplicações web com foco em experiência do usuário, organização de código e integração com serviços e APIs.
+<br>
 
-Atualmente curso **Sistemas de Informação na UNISUAM**, com conclusão prevista para **2027**, e busco oportunidades de **estágio em Desenvolvimento Front-End**, também aberto a experiências **Full Stack** para ampliar meus conhecimentos em Back-End.
+## 🛠️ Tools I know
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://premium-portfolio-base.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mattos-neves-97a180274/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelnevesrj12@gmail.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-</div>
+<br>
 
----
+## 📊 GitHub Stats
 
-## 🚀 Sobre mim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmneves12&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmneves12&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
 
-- 💻 Desenvolvedor Web Freelancer desde **2024**
-- ⚛️ Foco atual em **React.js, TypeScript e Tailwind CSS**
-- 🔗 Experiência com **APIs REST, Supabase, autenticação, banco de dados e rotas protegidas**
-- 🎨 Conhecimentos em **UI/UX, Responsive Design e Mobile First**
-- 🧩 Também trabalho com **WordPress e Shopify** em projetos comerciais
-- 🤖 Utilizo ferramentas de IA no fluxo de desenvolvimento, incluindo **Codex, GitHub Copilot e Claude**
-- 📚 Em evolução contínua para atuar como **Full Stack Developer**
-- 🌎 Rio de Janeiro — RJ, Brasil
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelmneves12&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
----
+<br>
 
-## 🛠️ Tecnologias e Ferramentas
+## 🔗 Onde me encontrar
 
-<div align="center">
-
-### Front-End
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Front-End Skills" />
-
-### Back-End, Dados e Integrações
-
-<img src="https://skillicons.dev/icons?i=supabase,firebase,postgres" alt="Back-End and Database Skills" />
-
-### Ferramentas e Plataformas
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress" alt="Tools and Platforms" />
-
-</div>
-
-**Outros conhecimentos:** REST API • React Router • Protected Routes • POO • Clean Code • Responsive Design • Mobile First • UI/UX • Shopify • Hostinger
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelmneves12&theme=github_dark"
-  alt="Atividade do GitHub"
-/>
-
-<br/><br/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelmneves12&theme=github_dark"
-  alt="Linguagens por repositório"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelmneves12&theme=github_dark"
-  alt="Linguagens mais utilizadas nos commits"
-/>
-
-<br/><br/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelmneves12&theme=github_dark"
-  alt="Estatísticas gerais do GitHub"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafaelmneves12&theme=github_dark&utcOffset=-3"
-  alt="Horários mais produtivos"
-/>
-
-</div>
----
-
-## 🎯 Atualmente
-
-```text
-📚 Cursando Sistemas de Informação
-⚛️ Aprofundando React.js + TypeScript
-🧠 Evoluindo arquitetura, APIs e integração com Back-End
-💼 Desenvolvendo projetos reais como freelancer
-🎯 Buscando estágio em Desenvolvimento Front-End
-
----
-
-## 🎯 Atualmente
-
-```text
-📚 Cursando Sistemas de Informação
-⚛️ Aprofundando React.js + TypeScript
-🧠 Evoluindo arquitetura, APIs e integração com Back-End
-💼 Desenvolvendo projetos reais como freelancer
-🎯 Buscando estágio em Desenvolvimento Front-End
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafael-mattos-neves-97a180274/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/rafaelneves.devweb" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://rafaelnevesdev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
