@@ -51,60 +51,45 @@ Atualmente curso **Sistemas de Informação na UNISUAM**, com conclusão previst
 
 ---
 
-### 💼 Portfólio Profissional
-
-Portfólio desenvolvido para apresentar meus projetos, tecnologias, certificados, experiências e evolução como desenvolvedor.
-
-**Stack:** React • TypeScript • Tailwind CSS • Vite
-
-[🌐 Acessar portfólio](https://premium-portfolio-base.vercel.app/) • [📂 Repositório](https://github.com/rafaelmneves12/Portifolio-Rafael)
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=rafaelmneves12&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
-  alt="Estatísticas do GitHub"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmneves12&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
-  alt="Linguagens mais utilizadas"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com/?user=rafaelmneves12&theme=github-dark-blue&hide_border=true&locale=pt_BR"
-  alt="Sequência de contribuições"
-/>
-
-</div>
-
----
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-
-<img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelmneves12&theme=github-compact&hide_border=true"
-  alt="Gráfico de contribuições"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelmneves12&theme=github_dark"
+  alt="Atividade do GitHub"
+/>
+
+<br/><br/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelmneves12&theme=github_dark"
+  alt="Linguagens por repositório"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelmneves12&theme=github_dark"
+  alt="Linguagens mais utilizadas nos commits"
+/>
+
+<br/><br/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelmneves12&theme=github_dark"
+  alt="Estatísticas gerais do GitHub"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafaelmneves12&theme=github_dark&utcOffset=-3"
+  alt="Horários mais produtivos"
 />
 
 </div>
-
 ---
 
 ## 🎯 Atualmente
