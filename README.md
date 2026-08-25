@@ -1,59 +1,74 @@
-<h1 align="center">Oieee, seja bem-vindo(a) 👋</h1>
+<div align="center">
 
-<p align="center">
-  Me chamo <b>Rafael de Mattos Neves</b>, e moro no Rio de Janeiro - RJ.
-</p>
+# 👋 Olá, eu sou o Rafael Mattos
 
-- 💻 Desenvolvedor Front-end / Full Stack
-- 🚀 Construindo aplicações com React, TypeScript e integrações com Supabase e Firebase
-- 🌱 Sempre aprendendo e evoluindo com novas tecnologias
-- 📫 Venha me conhecer um pouco mais!
+### Desenvolvedor Front-End • React • TypeScript 
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://premium-portfolio-base.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mattos-neves-97a180274/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelnevesrj12@gmail.com)
 
-## 🛠️ Tools I know
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+---
 
-<br>
+## 🚀 Sobre mim
 
-## 📊 GitHub Stats
+- 💻 Desenvolvedor Web Freelancer desde **2024**
+- ⚛️ Foco atual em **React.js, TypeScript e Tailwind CSS**
+- 🔗 Experiência com **APIs REST, Supabase, autenticação, banco de dados e rotas protegidas**
+- 🎨 Conhecimentos em **UI/UX, Responsive Design e Mobile First**
+- 🧩 Também trabalho com **WordPress e Shopify** em projetos comerciais
+- 🤖 Utilizo ferramentas de IA no fluxo de desenvolvimento, incluindo **Codex, GitHub Copilot e Claude**
+- 📚 Em evolução contínua para atuar como **Full Stack Developer**
+- 🌎 Rio de Janeiro — RJ, Brasil
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmneves12&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmneves12&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelmneves12&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## 🛠️ Tecnologias e Ferramentas
 
-<br>
+<div align="center">
 
-## 🔗 Onde me encontrar
+### Front-End
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafael-mattos-neves-97a180274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rafaelneves.devweb" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://rafaelnevesdev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Front-End Skills" />
+
+### Back-End, Dados e Integrações
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres" alt="Back-End and Database Skills" />
+
+### Ferramentas e Plataformas
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress" alt="Tools and Platforms" />
+
+</div>
+
+**Outros conhecimentos:** REST API • React Router • Protected Routes • POO • Clean Code • Responsive Design • Mobile First • UI/UX • Shopify • Hostinger
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmneves12&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmneves12&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rafaelmneves12&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+
+</div>
+
+> Os gráficos são gerados automaticamente a partir da atividade pública disponível no GitHub e podem variar conforme os repositórios e contribuições visíveis.
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelmneves12&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
