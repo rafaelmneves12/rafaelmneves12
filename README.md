@@ -51,54 +51,6 @@ Atualmente curso **Sistemas de Informação na UNISUAM**, com conclusão previst
 
 ---
 
-## 📌 Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎫 Tickets PRO
-
-Sistema web para gerenciamento de **chamados e clientes**, com autenticação, dashboard, gerenciamento de sessão e rotas protegidas.
-
-**Principais recursos**
-
-- Autenticação e autorização de usuários
-- Cadastro e gerenciamento de clientes
-- Gerenciamento de tickets
-- Dashboard de acompanhamento
-- Integração com Supabase
-- PostgreSQL e Row Level Security
-- Interface responsiva
-
-**Stack:** React • TypeScript • Tailwind CSS • Supabase • PostgreSQL • Vite
-
-[🌐 Acessar projeto](https://projeto-curriculo-usuario-area.vercel.app/) • [📂 Repositório](https://github.com/rafaelmneves12/Projeto-UsuarioArea)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Filmaria / PrimeFlix
-
-SPA para consulta de filmes utilizando integração com API externa, navegação entre páginas e gerenciamento de favoritos.
-
-**Principais recursos**
-
-- Consumo da API do TMDB
-- Listagem de filmes populares
-- Página de detalhes
-- Sistema de favoritos
-- React Router
-- Interface responsiva
-
-**Stack:** React • TypeScript • Tailwind CSS • Axios • REST API • Vite
-
-[🌐 Acessar projeto](https://filmaria-omega.vercel.app/) • [📂 Repositório](https://github.com/rafaelmneves12/Filmaria)
-
-</td>
-</tr>
-</table>
-
 ### 💼 Portfólio Profissional
 
 Portfólio desenvolvido para apresentar meus projetos, tecnologias, certificados, experiências e evolução como desenvolvedor.
@@ -109,31 +61,60 @@ Portfólio desenvolvido para apresentar meus projetos, tecnologias, certificados
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmneves12&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=rafaelmneves12&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
+  alt="Estatísticas do GitHub"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmneves12&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rafaelmneves12&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmneves12&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
+  alt="Linguagens mais utilizadas"
+/>
 
 </div>
 
-> Os gráficos são gerados automaticamente a partir da atividade pública disponível no GitHub e podem variar conforme os repositórios e contribuições visíveis.
+<br>
+
+<div align="center">
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com/?user=rafaelmneves12&theme=github-dark-blue&hide_border=true&locale=pt_BR"
+  alt="Sequência de contribuições"
+/>
+
+</div>
 
 ---
 
-## 📈 Atividade no GitHub
+## 📈 Gráfico de Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelmneves12&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelmneves12&theme=github-compact&hide_border=true"
+  alt="Gráfico de contribuições"
+/>
 
 </div>
+
+---
+
+## 🎯 Atualmente
+
+```text
+📚 Cursando Sistemas de Informação
+⚛️ Aprofundando React.js + TypeScript
+🧠 Evoluindo arquitetura, APIs e integração com Back-End
+💼 Desenvolvendo projetos reais como freelancer
+🎯 Buscando estágio em Desenvolvimento Front-End
 
 ---
 
