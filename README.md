@@ -51,24 +51,38 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmneves12&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelmneves12&theme=github_dark"
+    alt="GitHub Activity Overview"
+  />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmneves12&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <br/><br/>
 
-<br/>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelmneves12&theme=github_dark"
+    alt="Linguagens por Repositório"
+  />
 
-<img src="https://streak-stats.demolab.com?user=rafaelmneves12&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelmneves12&theme=github_dark"
+    alt="Linguagens mais utilizadas nos commits"
+  />
 
-</div>
+  <br/><br/>
 
-> Os gráficos são gerados automaticamente a partir da atividade pública disponível no GitHub e podem variar conforme os repositórios e contribuições visíveis.
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelmneves12&theme=github_dark"
+    alt="Estatísticas gerais do GitHub"
+  />
 
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelmneves12&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafaelmneves12&theme=github_dark&utcOffset=-3"
+    alt="Horários de maior atividade"
+  />
 
 </div>
